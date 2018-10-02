@@ -1,7 +1,27 @@
-pygments: true
-permalink: /otter-pop/:year/:month/:day/:title
-markdown: rdiscount
-exclude: ['.git']
-name: "Otter Pop"
-description: "The world's greated jekyll theme"
-url: http://tybenz.com/otter-pop
+# Blog settings
+permalink: /blog/:title
+
+
+# My variables
+name: My Blog
+description: A Jekyll Theme
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
