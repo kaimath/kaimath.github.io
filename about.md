@@ -13,7 +13,7 @@ permalink: /about/
 <br/>
 
 
-Hi, I'm Kai. I like to call myself an aspiring quantitative urbanist, or computational social scientist. The language to describe what I'd like to do hasn't quite been worked out yet. I'm passionate about cities, economic geography, machine learning, and complex systems. I study at Vassar College, where my major is mathematics and my minor is urban studies. My pronouns are they/them/theirs.
+Hi, I'm Kai. I like to call myself an aspiring quantitative urbanist, or computational social scientist. The language to describe what I'd like to do hasn't quite been worked out yet. I'm passionate about cities, economic geography, machine learning, and complex systems. I study at <a href="https://vassar.edu">Vassar College</a>, where my major is mathematics and my minor is urban studies. My pronouns are they/them/theirs.
 
 
 
