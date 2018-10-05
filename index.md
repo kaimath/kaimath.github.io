@@ -1,24 +1,25 @@
 ﻿---
+
 layout: default
+
 ---
 
+
 <div class="header-bar">
+
   <h1>kai matheson</h1>
-  <h2>simple whitespace theme</h2>
+
+  <h2>mathematics/urban studies/economics/computational science</h2>
+
   <br/>
+
   <hr>
+
   <br/>
+
 </div>
 
 
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
+
+
+Hi, I'm Kai. Here you can find a bit of information about what I do, hope to do, and have done. I hope you enjoy!
