@@ -15,7 +15,7 @@ permalink: /about/
 
 Hi, I'm Kai. The language to describe what I'd like to do hasn't quite been worked out yet, but let me try to sum it up. I like to call myself an aspiring quantitative urbanist, or computational social scientist. I'm passionate about cities, economic geography, machine learning, and complex systems.
 
-<br/><br/>
+<br/>
 
 I study at <a href="https://vassar.edu">Vassar College</a>, where my major is mathematics and my minor is urban studies. In my time at Vassar, I have tried to accumulate what I believe is a quantitative social science toolset. My pronouns are they/them/theirs.
 
