@@ -7,6 +7,7 @@ permalink: /about/
 
 ---
 
+
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
@@ -30,4 +31,5 @@ Hi, I'm Kai. I like to call myself an aspiring quantitative urbanist, or computa
 <div class="col three caption">
 	The best way to reach me is by e-mail!
 </div>
+
 
