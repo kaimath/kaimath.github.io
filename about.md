@@ -10,7 +10,7 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-<br/>
+
 
 
 Hi, I'm Kai. My pronouns are they/them/theirs. The language to describe what I'd like to do hasn't quite been worked out yet, but let me try to sum it up. I like to call myself an aspiring quantitative urbanist, or computational social scientist. I'm passionate about cities, economic geography, machine learning, and complex systems.
