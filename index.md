@@ -9,7 +9,7 @@ layout: default
 
   <h1>kai matheson</h1>
 
-  <h2>mathematics/urban studies/economics/computational science</h2>
+  <h2>mathematics/ urban studies/ economics/ computational science</h2>
 
   <br/>
 
@@ -22,4 +22,4 @@ layout: default
 
 
 
-Hi, I'm Kai. Here you can find a bit of information about what I do, hope to do, and have done. I hope you enjoy!
+Hi, I'm Kai. Here you can find a bit of information about what I do, what I hope to do, and what I have done. I hope you enjoy!
