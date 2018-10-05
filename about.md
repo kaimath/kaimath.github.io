@@ -22,7 +22,7 @@ Hi, I'm Kai. I like to call myself an aspiring quantitative urbanist, or computa
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="ramatheson@vassar.edu"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:ramatheson@vassar.edu"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/kaimath" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/rkmatheson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/mathematikai" target="_blank"><i class="fa fa-twitter-square"></i></a>
