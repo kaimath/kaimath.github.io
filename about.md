@@ -28,7 +28,7 @@ I study at <a href="https://vassar.edu">Vassar College</a>, where my major is ma
 <span class="contacticon center">
 	<a href="mailto:ramatheson@vassar.edu"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/kaimath" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/rkmatheson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com/in/rkmatheson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/mathematikai" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
