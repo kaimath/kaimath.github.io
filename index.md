@@ -9,7 +9,7 @@ layout: default
 
   <h1>kai matheson</h1>
 
-  <h2>math/ urban studies/ economics/ data/ complex systems</h2>
+  <h2>math - urban studies - economics - data - complex systems</h2>
 
   <br/>
 
