@@ -17,4 +17,4 @@ This page is under maintenance...
 
 <br/>
 
-Each Spring at Vassar, we hold a data competition called DataFest 2018. Hear about my team's experience <a href="{{ site.baseurl }}/datafest/">here</a>.
+Each Spring at Vassar, we hold a data competition called ASA DataFest. Hear about my team's experience <a href="{{ site.baseurl }}/datafest/">here</a>.
