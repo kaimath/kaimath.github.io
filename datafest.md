@@ -7,6 +7,9 @@ description: datafest 2018
 
 
 <h2>datafest 2018</h2>
+
+<br/> 
+
 <img src="/img/datafest.jpg" height="400" class="col one left">
 
 I participated in ASA DataFest 2018 on a team along with Travers Parsons-Grayson, Amanda McFarland, Sam Weiner, and Eli Schwamm. For some background, DataFest is basically a hackathon but instead of development skills we practice our data crunching skills. Each year, they provide us with an industry dataset of millions of rows, as well as 72 hours to do what we can with it. This year, it was Indeed data on job searches.
