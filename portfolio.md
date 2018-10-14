@@ -13,7 +13,7 @@ Here you can find some of the projects I've worked on and cool things I've done,
 
 <br/>
 
-Coming soon!
+This page is under maintenance.
 
 <br/>
 
