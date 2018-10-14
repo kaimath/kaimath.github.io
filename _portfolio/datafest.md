@@ -3,7 +3,7 @@
 layout: post
 
 title: datafest 2018
-description: winner, best analysis
+description: honorable mention, best data analysis
 img: /img/12.jpg
 ---
 
