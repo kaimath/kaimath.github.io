@@ -23,7 +23,7 @@ My friends and I were interested in analyzing the data in ways that could be uti
 
 We categorized locations into cities and suburbs designated by the Census Bureau. We performed our analysis by testing the hypothesis that the proportion of local clicks in the city was the same as the proportion of local clicks in the suburbs. We also ran a linear regression with city density and metropolitan area fixed effects, on a subset of the data. 
 
-<img src="/img/datafestplot.png" width="300" class="col one right">
+<img src="/img/datafestplot.png" width="600" class="col one right">
 
 In the image to your right, you can see that there is a lower proportion of local clicks for jobs that require higher education versus those that require only a high school diploma. Likewise, there is a higher proportion of local clicks for jobs that are in the city versus those that are located in the suburbs. Through hypothesis testing, we showed that the difference in proportion of local clicks for cities versus suburbs is significant across education groups. 
 
@@ -31,7 +31,7 @@ In the image to your right, you can see that there is a lower proportion of loca
 
 We also constructed maps by education level of proportion of local clicks in each suburb. You can see here, in maps of New York City, that bigger circles exist in blue than in red-- representing higher proportions of local clicks for lower-education jobs. We can also see in both maps that circles are bigger in the center of the city compared to the suburbs-- representing the higher proportion of local clicks for jobs in the city. 
 
-<img src="/img/nychs.png" width="300"> <img src="/img/nychighered.png" width="300">
+<center><img src="/img/nychs.png" width="300"> <img src="/img/nychighered.png" width="300"></center>
 
 <br/>
 
