@@ -32,8 +32,8 @@ In the image to your right, you can see that there is a lower proportion of loca
 We also constructed maps by education level of proportion of local clicks in each suburb. You can see here, in maps of New York City, that bigger circles exist in blue than in red-- representing higher proportions of local clicks for lower-education jobs. We can also see in both maps that circles are bigger in the center of the city compared to the suburbs-- representing the higher proportion of local clicks for jobs in the city. 
 
 <div class="img_row">
-	<img class="col one" src="/img/nychs.png">
-	<img class="col one" src="/img/nychighered.png">
+	<img class="col half" src="/img/nychs.png">
+	<img class="col half" src="/img/nychighered.png">
 </div>
 
 
