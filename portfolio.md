@@ -15,7 +15,7 @@ Here you can find some of the projects I've worked on and cool things I've done,
 
 <img src="/img/final-datafest-front-bw.png" class="col one left">
 
-Each Spring at Vassar, we hold a data competition called ASA DataFest. Hear about my team's experience <a href="{{ site.baseurl }}/datafest/">here</a>. (I also designed the shirts-- reminiscent of the Vassar library!)
+Each Spring at Vassar, we hold a data competition called ASA DataFest. Hear about my team's experience from 2018 right <a href="{{ site.baseurl }}/datafest/">here</a>. (I also designed the t-shirts and posters... See the design of the front of the t-shirt to your left-- reminiscent of the Vassar library!)
 
 <br/>
 
