@@ -36,4 +36,4 @@ We also constructed maps by education level of proportion of local clicks in eac
 
 <br/>
 
-We found that jobs posted in cities attract a significantly higher proportion of local interest than do jobs in the suburbs. This is perhaps related to the national government's investment in highways and automobile transport. To find out more about what we did, read our <a href="{{ site.baseurl }}/DataFest2018PPT.pdf">PowerPoint</a> or our <a href="{{ site.baseurl }}/DataFest2018Writeup.pdf">write-up</a>.
+We found that jobs posted in cities attract a significantly higher proportion of local interest than do jobs in the suburbs. This is perhaps related to the national government's investment in highways and automobile transport. To find out more about what we did, read our <a href="{{ site.baseurl }}/DataFest2018PPT.pdf">PowerPoint</a> or <a href="{{ site.baseurl }}/DataFest2018Writeup.pdf">write-up</a>.
