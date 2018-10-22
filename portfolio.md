@@ -13,13 +13,13 @@ Here you can find some of the projects I've worked on and cool things I've done,
 
 <br/>
 
-<img src="/img/final-datafest-front-bw.png" class="col one right">
+<img src="/img/final-datafest-front-bw.png" class="col one left">
 
 Each Spring at Vassar, we hold a data competition called ASA DataFest. Hear about my team's experience <a href="{{ site.baseurl }}/datafest/">here</a>. (I also designed the shirts-- reminiscent of the Vassar library!)
 
 <br/>
 
-<img src="/img/mtbi.png" class="col one left">
+<img src="/img/mtbi.png" class="col one right">
 
 In the summer of 2017, I did research at the <a href="https://mtbi.asu.edu/">Mathematical and Theoretical Biology Institute</a>, which is part of the Simon A. Levin Mathematical, Computational and Modeling Sciences Center at Arizona State University. I worked as part of a team to develop a mathematical model of the relationship between public transit infrastructure and the spread of infectious disease, under Dr. Baojun Song of Montclair State University. Read our full manuscript <a href="https://mtbi.asu.edu/sites/default/files/manuscript.pdf">here</a>.
 
