@@ -22,4 +22,4 @@ layout: default
 
 
 
-Hi, I'm Kai. Here you can find a bit of information about what I do, what I hope to do, and what I have done. I hope you enjoy!
+Hi, I'm Kai. This website is under construction.
