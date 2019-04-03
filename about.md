@@ -17,7 +17,7 @@ Hi, I'm Kai. People address me as they/them. The language to describe what I'd l
 
 <br/>
 
-I study at <a href="https://vassar.edu">Vassar College</a>, where my major is mathematics and my minor is urban studies. In my time at Vassar, I have tried to accumulate what I believe is a quantitative social science toolset. This year, I am writing a senior thesis in economics. My aim is to explore the relationship between the geographic shape of economic segregation and measures of intergenerational mobility. I want to be a part of bridging the divide between the social sciences and the computational and mathematical sciences.
+I study at Vassar College, where my major is mathematics and my minor is urban studies. In my time at Vassar, I have tried to accumulate what I believe is a quantitative social science toolset. This year, I am writing a senior thesis in economics. My aim is to explore the relationship between the geographic shape of economic segregation and measures of intergenerational mobility. I want to be a part of bridging the divide between the social sciences and the computational and mathematical sciences.
 
 <br/>
 
