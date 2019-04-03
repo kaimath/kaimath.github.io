@@ -1,7 +1,9 @@
 ﻿---
+layout: page
 
-layout: post
-description: story map
+title: story map
+
+permalink: /storymap/
 ---
 
 
