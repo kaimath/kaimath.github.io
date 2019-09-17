@@ -22,4 +22,4 @@ layout: default
 
 
 
-Hi, I'm Kai. This website is under construction.
+Hi, I'm Kai. This website is under construction for the foreseeable future.
