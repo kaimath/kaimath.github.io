@@ -11,8 +11,6 @@ order: 2
 
 In no particular order: 
 
-<br/>
-
 1. <a href="https://opendot.github.io/ml4a-invisible-cities/">Invisible Cities </a> <br/>
 2. <a href="https://toolbox.google.com/datasetsearch">Google Dataset Search</a> <br/>
 3. <a href="https://mappingpoliceviolence.org/">Mapping Police Violence</a> <br/>
