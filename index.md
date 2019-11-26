@@ -9,7 +9,7 @@ layout: default
 
   <h1>kai matheson</h1>
 
-  <h2>math &#8226; urban studies &#8226; economics &#8226; data &#8226; complex systems</h2>
+  <h3>math &#8226; urban studies &#8226; economics &#8226; data &#8226; complex systems &#8226; equity</h3>
 
   <hr>
 
@@ -26,7 +26,15 @@ Hi, I'm Kai. People address me as they/them. The language to describe what I'd l
 
 <br/>
 
-I study at Vassar College, where my major is mathematics and my minor is urban studies. In my time at Vassar, I have tried to accumulate what I believe is a quantitative social science toolset. This year, I am writing a senior thesis in economics. My aim is to explore the relationship between the geographic shape of economic segregation and measures of intergenerational mobility. I want to be a part of bridging the divide between the social sciences and the computational and mathematical sciences.
+I graduated from Vassar College in 2019, where my major was mathematics and my minor was urban studies. In my time at Vassar, I tried to accumulate what I believe is a quantitative social science toolset. I wrote a senior thesis in economics, which explored the relationship between the geographic shape of economic segregation and intergenerational mobility, specifically focusing on how economic segregation ought to be measured. I want to be a part of bridging the divide between the social sciences and the computational and mathematical sciences. In doing so, I believe an important part of this gap is figuring out the best ways to measure things that aren't directly observable, like segregation, gerrymandering, or social capital. 
+
+<br/>
+
+Now, I'm spending two years at Harvard University's <a href="https://opportunityinsights.org/">Opportunity Insights</a>, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study economic opportunity and how to impact it in the United States. I plan on applying to PhD programs in the fall of 2020. 
+
+<br/>
+
+I love to bond over shared passions, so please reach out if any of this speaks to you! 
 
 <br/>
 
