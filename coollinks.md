@@ -9,7 +9,7 @@ order: 2
 
 ---
 
-In no particular order: 
+in no particular order: 
 
 1. <a href="https://opendot.github.io/ml4a-invisible-cities/">Invisible Cities </a> <br/>
 2. <a href="https://toolbox.google.com/datasetsearch">Google Dataset Search</a> <br/>
