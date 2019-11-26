@@ -9,7 +9,17 @@ order: 2
 
 ---
 
-in no particular order: 
+my stuff:
+
+1. <a href="https://kaimath.github.io/Thesis_May_2019.pdf">Measuring Economic Segregation Based on What Matters for Creating Opportunity</a> <br/>
+2. <a href="https://kaimath.github.io/storymap.html">Story Map: Mapping Economic Segregation</a> <br/>
+3. <a href="https://kaimath.github.io/shinyapp.html">Applet: Exploring Economic Mobility</a> <br/>
+4. <a href="https://kaimath.github.io/datafest/">DataFest 2018</a> <br/>
+5. <a href="https://kaimath.github.io/stat242finalproject.pdf">Proxies for and Predictors of DC Residents' Views on Police</a> <br/>
+
+<br/>
+
+other people's stuff: 
 
 1. <a href="https://opendot.github.io/ml4a-invisible-cities/">Invisible Cities </a> <br/>
 2. <a href="https://toolbox.google.com/datasetsearch">Google Dataset Search</a> <br/>
