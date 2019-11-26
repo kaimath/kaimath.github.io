@@ -1,7 +1,5 @@
 ---
 title: "Resume"
-description: 2019
-date: 2019-01-01
 layout: pdf
 permalink: /resume/
 ---
