@@ -5,6 +5,8 @@ title: cool links
 
 permalink: /coollinks/
 
+order:3
+
 ---
 
 In no particular order: 
