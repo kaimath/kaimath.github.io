@@ -17,8 +17,6 @@ my stuff:
 4. <a href="https://kaimath.github.io/datafest/">DataFest 2018</a> <br/>
 5. <a href="https://kaimath.github.io/stat242finalproject.pdf">Proxies for and Predictors of DC Residents' Views on Police</a> <br/>
 
-<br/>
-
 other people's stuff: 
 
 1. <a href="https://opendot.github.io/ml4a-invisible-cities/">Invisible Cities </a> <br/>
