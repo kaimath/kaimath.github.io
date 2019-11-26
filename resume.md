@@ -1,6 +1,6 @@
 ---
-title: "resume"
 layout: pdf
+title: resume
 permalink: /resume/
 order: 1
 ---
