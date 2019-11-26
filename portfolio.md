@@ -1,10 +1,8 @@
 ﻿---
 
-layout: page
+layout: post
 
-permalink: /portfolio/
-
-title: portfolio
+description: portfolio
 ---
 
 

@@ -36,11 +36,6 @@ Now, I'm spending two years at Harvard University's <a href="https://opportunity
 
 I love to bond over shared passions, so please reach out if any of this speaks to you! 
 
-<br/>
-
-Click <a href="{{ site.baseurl }}/resume.pdf">here</a> for my current resume. 
-
-
 
 
 <br/>
