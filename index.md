@@ -11,11 +11,7 @@ layout: default
 
   <h2>math &#8226; urban studies &#8226; economics &#8226; data &#8226; complex systems</h2>
 
-  <br/>
-
   <hr>
-
-  <br/>
 
 </div>
 
@@ -43,7 +39,7 @@ Click <a href="{{ site.baseurl }}/resume.pdf">here</a> for my current resume.
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:ramatheson@vassar.edu"><i class="fa fa-envelope-square"></i></a>
+	<a href="mailto:kaihartmatheson@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/kaimath" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/rkmatheson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/mathematikai" target="_blank"><i class="fa fa-twitter-square"></i></a>
