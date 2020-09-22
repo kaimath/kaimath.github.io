@@ -9,7 +9,7 @@ layout: default
 
   <h1>kai matheson</h1>
 
-  <h4>math &#8226; urban sociology &#8226; public economics &#8226; data &#8226; complex systems &#8226; equity</h4>
+  <h4>a data-driven interdisciplinary researcher passionate for social policy</h4>
 
   <hr>
 
