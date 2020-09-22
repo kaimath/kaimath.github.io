@@ -22,8 +22,19 @@ layout: default
 
 
 
-Hi, I’m Kai. People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. I want to be a part of the effort to bridge the divide between the social sciences and the computational and mathematical sciences. Often, quantitative-leaning researchers are drawn to applications in STEM fields like biology or physics. Rather, I am passionate about finding ways to apply quantitative methods to social science topics such as economic geography and urban sociology. I care deeply about affecting systemic racial inequality in the United States. 
+Hi, I’m Kai. People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. I want to be a part of the effort to bridge the divide between the social sciences and the computational and mathematical sciences. 
 
+<br/>
+
+I am passionate about finding ways to apply quantitative methods to social science topics such as economic geography and urban sociology. I care deeply about affecting systemic racial inequality in the United States. My research interests can be mostly bucketed into two camps: the measurement of non-observables, and the process of neighborhood change. 
+
+<br/>
+
+I believe it is extremely important to figure out the best ways to measure things that aren’t directly observable, like segregation, gerrymandering, social capital, transportation access, and policing. I think it is crucial for researchers to measure these sometimes nebulous concepts as accurately as possible, otherwise we risk drawing the wrong conclusions or underestimating their true impacts on outcomes that matter to our lives.
+
+<br/>
+
+When it comes to understanding neighborhood change, I have so many questions. I’m curious about how geography matters-- how large is the neighborhood unit of change? How does transportation infrastructure play into this? I’m interested in the dynamics of neighborhood change-- how do we build up a neighborhood for the good of its community while keeping the community intact? How can we create and maintain truly integrated communities? How do we prioritize equity and access in urban development processes?
 
 <br/>
 
@@ -31,25 +42,12 @@ I graduated from Vassar College in 2019, where my major was mathematics and my m
 
 <br/>
 
-Now, I’m spending two years at Harvard University’s <a href="https://opportunityinsights.org/">Opportunity Insights</a>, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study the dynamics of neighborhood economic opportunity in the United States. Next, I’d like to pivot to research that takes more of a sociological approach. I plan on applying to PhD programs in the fall of 2021.
+Now, I’m spending two years at Harvard University’s Opportunity Insights, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study the dynamics of neighborhood economic opportunity in the United States. Next, I’d like to pivot to research that takes more of a sociological approach. I plan on applying to PhD programs in the fall of 2021.
 
 <br/>
 
-My research interests can be mostly bucketed into two camps: the measurement of non-observables, and the process of neighborhood change. 
+I also get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
 
-<br/>
-
-I believe it is extremely important to figure out the best ways to measure things that aren’t directly observable, like segregation, gerrymandering, social capital, transportation access, and policing. I think it is crucial for researchers to measure these sometimes nebulous concepts as accurately as possible, otherwise we risk drawing the wrong conclusions or underestimating their true impacts on outcomes that matter to our lives.
-
-
-<br/>
-
-When it comes to understanding neighborhood change, I have so many questions. I’m curious about how geography matters-- how large is the neighborhood unit of change? How does transportation infrastructure play into this? I’m interested in the dynamics of neighborhood change-- how do we build up a neighborhood for the good of its community while keeping the community intact? How can we create and maintain truly integrated communities? How do we prioritize equity and access in urban development processes?
-
-
-<br/>
-
-Beyond research, I get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
 
 
 
@@ -65,7 +63,6 @@ Beyond research, I get amped over things like trans visibility, STEM mentorship 
 </span>
 
 <div class="col three caption">
-	The best way to reach me is by e-mail!
 </div>
 
 
