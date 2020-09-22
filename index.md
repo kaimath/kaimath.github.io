@@ -42,7 +42,7 @@ I graduated from Vassar College in 2019, where my major was mathematics and my m
 
 
 
-Now, I’m spending two years at Harvard University’s Opportunity Insights, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study the dynamics of neighborhood economic opportunity in the United States. Next, I’d like to pivot to research that takes more of a sociological approach. I plan on applying to PhD programs in the fall of 2021.
+Now, I’m spending two years at Harvard University’s <a href=”https://opportunityinsights.org/”>Opportunity Insights</a>, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study the dynamics of neighborhood economic opportunity in the United States. Next, I’d like to pivot to research that takes more of a sociological approach. I plan on applying to PhD programs in the fall of 2021.
 
 
 
