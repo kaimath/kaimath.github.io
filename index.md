@@ -9,7 +9,7 @@ layout: default
 
   <h1>kai matheson</h1>
 
-  <h4>math &#8226; urban studies &#8226; economics &#8226; data &#8226; complex systems &#8226; equity</h4>
+  <h4>math &#8226; urban sociology &#8226; public economics &#8226; data &#8226; complex systems &#8226; equity</h4>
 
   <hr>
 
@@ -22,19 +22,35 @@ layout: default
 
 
 
-Hi, I'm Kai. People address me as they/them. The language to describe what I'd like to do hasn't quite been worked out yet, but let me try to sum it up. I like to call myself an aspiring quantitative urbanist, or computational social scientist. I'm passionate about cities, economic geography, machine learning, and complex systems.
+Hi, I’m Kai. People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. I want to be a part of the effort to bridge the divide between the social sciences and the computational and mathematical sciences. Often, quantitative-leaning researchers are drawn to applications in STEM fields like biology or physics. Rather, I am passionate about finding ways to apply quantitative methods to social science topics such as economic geography and urban sociology. I care deeply about affecting systemic racial inequality in the United States. 
+
 
 <br/>
 
-I graduated from Vassar College in 2019, where my major was mathematics and my minor was urban studies. In my time at Vassar, I tried to accumulate what I believe is a quantitative social science toolset. I wrote a senior thesis in economics, which explored the relationship between the geographic shape of economic segregation and intergenerational mobility, specifically focusing on how economic segregation ought to be measured. I want to be a part of bridging the divide between the social sciences and the computational and mathematical sciences. In doing so, I believe an important part of this gap is figuring out the best ways to measure things that aren't directly observable, like segregation, gerrymandering, or social capital. 
+I graduated from Vassar College in 2019, where my major was mathematics and my minor was urban studies. In my time at Vassar, I tried to accumulate what I believe is a quantitative social science toolset. I wrote a senior thesis in economics, which explored the relationship between the geographic shape of economic segregation and intergenerational mobility. 
 
 <br/>
 
-Now, I'm spending two years at Harvard University's <a href="https://opportunityinsights.org/">Opportunity Insights</a>, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study economic opportunity and how to impact it in the United States. I plan on applying to PhD programs in the fall of 2020. 
+Now, I’m spending two years at Harvard University’s <a href="https://opportunityinsights.org/">Opportunity Insights</a>, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study the dynamics of neighborhood economic opportunity in the United States. Next, I’d like to pivot to research that takes more of a sociological approach. I plan on applying to PhD programs in the fall of 2021.
 
 <br/>
 
-I love to bond over shared passions, so please reach out if any of this speaks to you! 
+My research interests can be mostly bucketed into two camps: the measurement of non-observables, and the process of neighborhood change. 
+
+<br/>
+
+I believe it is extremely important to figure out the best ways to measure things that aren’t directly observable, like segregation, gerrymandering, social capital, transportation access, and policing. I think it is crucial for researchers to measure these sometimes nebulous concepts as accurately as possible, otherwise we risk drawing the wrong conclusions or underestimating their true impacts on outcomes that matter to our lives.
+
+
+<br/>
+
+When it comes to understanding neighborhood change, I have so many questions. I’m curious about how geography matters-- how large is the neighborhood unit of change? How does transportation infrastructure play into this? I’m interested in the dynamics of neighborhood change-- how do we build up a neighborhood for the good of its community while keeping the community intact? How can we create and maintain truly integrated communities? How do we prioritize equity and access in urban development processes?
+
+
+<br/>
+
+Beyond research, I get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
+
 
 
 
