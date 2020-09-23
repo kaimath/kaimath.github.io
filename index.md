@@ -22,31 +22,20 @@ layout: default
 
 
 
-Hi, I’m Kai. People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. I want to be a part of the effort to bridge the divide between the social sciences and the computational and mathematical sciences. 
+Hi, I’m Kai. People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. In my career, my goal is to help bridge the divide between the social sciences and the computational and mathematical sciences. It is my desire to equip activists with the facts they need to fight their causes, and communities with the information they need to better their lives.
 
+I am passionate about finding ways to apply quantitative methods to social science topics such as economic geography and urban sociology. I care deeply about affecting systemic racial inequality in the United States. My research interests can be mostly bucketed into two camps: the measurement of nebulous things, and the process of neighborhood change. 
 
+I believe it is extremely important to figure out the best ways to capture phenomena that don’t translate cleanly into numbers, such as segregation, gerrymandering, social capital, transportation access, and policing. I think it is crucial for researchers to define and measure these sometimes amorphous concepts as accurately as possible, otherwise we risk drawing the wrong conclusions or underestimating their true impacts on outcomes that matter to our lives.
 
-I am passionate about finding ways to apply quantitative methods to social science topics such as economic geography and urban sociology. I care deeply about affecting systemic racial inequality in the United States. My research interests can be mostly bucketed into two camps: the measurement of non-observables, and the process of neighborhood change. 
-
-
-
-I believe it is extremely important to figure out the best ways to measure things that aren’t directly observable, like segregation, gerrymandering, social capital, transportation access, and policing. I think it is crucial for researchers to measure these sometimes nebulous concepts as accurately as possible, otherwise we risk drawing the wrong conclusions or underestimating their true impacts on outcomes that matter to our lives.
-
-
-
-When it comes to understanding neighborhood change, I have so many questions. I’m curious about how geography matters-- how large is the neighborhood unit of change? How does transportation infrastructure play into this? I’m interested in the dynamics of neighborhood change-- how do we build up a neighborhood for the good of its community while keeping the community intact? How can we create and maintain truly integrated communities? How do we prioritize equity and access in urban development processes?
-
-
+It is also really important to me to understand neighborhood change better. I’m interested in the dynamics of neighborhood change-- how do we build up a neighborhood for the good of its community while keeping the community intact? How can we create and maintain truly integrated communities? I’m also curious about how geography matters-- how do our results change depending on the boundaries we draw? At what geographic level do urban processes occur? How does transportation infrastructure play into this? How do we prioritize equity and access in urban development processes?
 
 I graduated from Vassar College in 2019, where my major was mathematics and my minor was urban studies. In my time at Vassar, I tried to accumulate what I believe is a quantitative social science toolset. I wrote a senior thesis in economics, which explored the relationship between the geographic shape of economic segregation and intergenerational mobility. 
 
-
-
 Now, I’m spending two years at Harvard University’s <a href="https://opportunityinsights.org/">Opportunity Insights</a>, where I am working as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study the dynamics of neighborhood economic opportunity in the United States. Next, I’d like to pivot to research that takes more of a sociological approach. I plan on applying to PhD programs in the fall of 2021.
 
-
-
 I also get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
+
 
 
 
