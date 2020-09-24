@@ -22,7 +22,7 @@ layout: default
 
 
 
-Hi, I’m Kai. People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. In my career, my goal is to help bridge the divide between the social sciences and the computational and mathematical sciences. It is my desire to equip activists with the facts they need to fight their causes, and communities with the information they need to better their lives.
+Hi, I’m Kai. People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. In my career, my goal is to help bridge the divide between the social sciences and the computational and mathematical sciences. It is my desire to equip activists with the facts they need to fight for their causes, and communities with the information they need to better their lives.
 
 I am passionate about finding ways to apply quantitative methods to social science topics such as economic geography and urban sociology. I care deeply about affecting systemic racial inequality in the United States. My research interests can be mostly bucketed into two camps: the measurement of nebulous things, and the process of neighborhood change. 
 
