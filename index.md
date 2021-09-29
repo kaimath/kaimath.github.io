@@ -32,7 +32,7 @@ It is also really important to me to understand neighborhood change better. I’
 
 I graduated from Vassar College in 2019, where my major was mathematics and my minor was urban studies. In my time at Vassar, I tried to accumulate what I believe is a quantitative social science toolset. I wrote a senior thesis in economics, which explored the relationship between the geographic shape of economic segregation and intergenerational mobility. 
 
-Then, I spent two years at Harvard University’s <a href="https://opportunityinsights.org/">Opportunity Insights</a>, where I worked as a pre-doctoral fellow making use of my skills in econometrics and machine learning to study the dynamics of neighborhood economic opportunity in the United States. Now, I am seeking further opportunities in research and data visualization, ideally where I can gain more exposure to sociology and public policy. I plan to pursue a PhD within the next 2-5 years. 
+Then, I spent two years as a predoctoral fellow at Harvard University’s <a href="https://opportunityinsights.org/">Opportunity Insights</a>, studying the dynamics of neighborhood economic opportunity in the United States. Now, I am seeking further opportunities in research and data visualization, ideally where I can gain more exposure to sociology and public policy. I plan to pursue a PhD within the next 2-5 years. 
 
 I also get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
 
