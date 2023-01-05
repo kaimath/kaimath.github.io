@@ -22,19 +22,16 @@ layout: default
 
 
 
-Hi, I’m Kai! People address me using they/them pronouns. I like to call myself an aspiring quantitative urbanist, or computational social scientist. In my career, my goal is to help bridge the divide between the social sciences and the computational and mathematical sciences. It is my desire to equip activists with the facts they need to fight for their causes, and communities with the information they need to better their lives.
+Hi, I’m Kai! People address me using they/them pronouns. I think of myself as computationally driven and social sciences oriented. In my career, my goal is to help bridge the divides between the social sciences and the computational and mathematical sciences, in realms from sociology to policy implementation. It is my desire to equip communities with the information and resources they need to better their lives.
 
-I am passionate about finding ways to apply quantitative methods to social science topics such as economic geography and urban sociology. I care deeply about affecting systemic racial inequality in the United States. My research interests can be mostly bucketed into two camps: the measurement of nebulous things, and the process of neighborhood change. 
+This reflects in the work I do. As a data visualization specialist at Accenture Federal Services, I aid in effectively carrying out social welfare programs that affect the quality of life of so many throughout the country. Previously, I was an economics predoctoral fellow at Harvard, where I conducted academic research on many of the same social welfare programs that I now interact with at work. 
 
-I believe it is extremely important to figure out the best ways to capture phenomena that don’t translate cleanly into numbers, such as segregation, gerrymandering, social capital, transportation access, and policing. I think it is crucial for researchers to define and measure these sometimes amorphous concepts as accurately as possible, otherwise we risk drawing the wrong conclusions or underestimating their true impacts on outcomes that matter to our lives.
+Working directly with the agencies that administer these programs aids me in understanding how the programs play out and impact communities. Whether through academic research or on-the-ground contributions, I carry with me a passion for social interventions that can address systemic inequality. 
 
-It is also really important to me to understand neighborhood change better. I’m interested in the dynamics of neighborhood change-- how do we build up a neighborhood for the good of its community while keeping the community intact? How can we create and maintain truly integrated communities? I’m also curious about how geography matters-- how do our results change depending on the boundaries we draw? At what geographic level do urban processes occur? How does transportation infrastructure play into this? How do we prioritize equity and access in urban development processes?
+I graduated from Vassar College in 2019, where I studied mathematics and urban studies. In my time at Vassar, I strived to be an interdisciplinarian, earning me a prize in multidisciplinary studies and the opportunity to house my thesis in the economics department. My thesis touched on my passions for measurement and neighborhood change by exploring the relationship between the geographic shape of economic segregation and intergenerational mobility. I see a future for myself in which I continue to engage with these topics, whether through a PhD or other means.
 
-I graduated from Vassar College in 2019, where my major was mathematics and my minor was urban studies. In my time at Vassar, I tried to accumulate what I believe is a quantitative social science toolset. I wrote a senior thesis in economics, which explored the relationship between the geographic shape of economic segregation and intergenerational mobility. 
+I get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
 
-Then, I spent two years as a predoctoral fellow at Harvard University’s <a href="https://opportunityinsights.org/">Opportunity Insights</a>, studying the dynamics of neighborhood economic opportunity in the United States. Now, I am seeking further opportunities in research and data visualization, ideally where I can gain more exposure to sociology and public policy. I plan to pursue a PhD within the next 2-5 years. 
-
-I also get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
 
 
 
