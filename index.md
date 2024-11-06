@@ -24,7 +24,7 @@ layout: default
 
 Hi, I’m Kai! People address me using they/them pronouns. I think of myself as computationally driven and social sciences oriented. In my career, my goal is to help bridge the divides between the social sciences and the computational and mathematical sciences, in realms from sociology to policy implementation. It is my desire to equip communities with the information and resources they need to better their lives.
 
-This reflects in the work I do. As a data visualization specialist at Accenture Federal Services, I aid in effectively carrying out social welfare programs that affect the quality of life of so many throughout the country. Previously, I was an economics predoctoral fellow at Harvard, where I conducted academic research on many of the same social welfare programs that I now interact with at work. 
+This reflects in the work I do. As a data science specialist at Accenture Federal Services, I aid in effectively carrying out social welfare programs that affect the quality of life of so many throughout the country. Previously, I was an economics predoctoral fellow at Harvard, where I conducted academic research on intergenerational economic mobility and neighborhood effects in relation to many of the same social welfare programs that I now interact with at work. 
 
 Working directly with the agencies that administer these programs aids me in understanding how the programs play out and impact communities. Whether through academic research or on-the-ground contributions, I carry with me a passion for social interventions that can address systemic inequality. 
 
