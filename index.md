@@ -17,7 +17,7 @@ layout: default
 
 
 
-<img class="col one right" src="/img/prof_pic_new.jpg">
+<img class="col one right" src="/img/headshot_brick.jpg">
 
 
 
