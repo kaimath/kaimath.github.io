@@ -1,4 +1,4 @@
-﻿---
+---
 
 layout: default
 
@@ -9,7 +9,7 @@ layout: default
 
   <h1>kai matheson</h1>
 
-  <h4>data science for social good</h4>
+  <h4>quantitative urbanism | complex systems | spatial sociology</h4>
 
   <hr>
 
@@ -22,15 +22,17 @@ layout: default
 
 
 
-Hi, I’m Kai! People address me using they/them pronouns. I think of myself as computationally driven and social sciences oriented. In my career, my goal is to help bridge the divides between the social sciences and the computational and mathematical sciences, in realms from sociology to policy implementation. It is my desire to equip communities with the information and resources they need to better their lives.
+Hi, I'm Kai! I am a sociology <a href="https://lsa.umich.edu/soc/people/current-graduate-students/kai-matheson.html">PhD student</a> at the University of Michigan and a predoctoral trainee in the Center for Population Studies at the Institute for Social Research. I am interested in studying spatial inequality and urban processes with a computational bent. I spend my time thinking about how to define, quantify, and measure the sociospatial world with respect to what matters for shifting the needle towards justice. 
 
-This reflects in the work I do. As a data science specialist at Accenture Federal Services, I aid in effectively carrying out social welfare programs that affect the quality of life of so many throughout the country. Previously, I was an economics predoctoral fellow at Harvard, where I conducted academic research on intergenerational economic mobility and neighborhood effects in relation to many of the same social welfare programs that I now interact with at work. 
+Previously, I was in the federal consulting space doing data science work for nationwide social welfare programs. My research and academic background is paradigmatically diverse, having collaborated with researchers from departments as disparate as political science and computer science. In 2019, I received my degree in mathematics and urban studies from Vassar College, where I was given honors for my thesis in economics and excellence in interdisciplinary studies. A true interdisciplinarian and computational urbanist at heart, I am drawn to continue my studies in sociology and complexity science for their broad approaches to the study of society. It is my desire to equip communities with the information and resources they need to better their lives. 
 
-Working directly with the agencies that administer these programs aids me in understanding how the programs play out and impact communities. Whether through academic research or on-the-ground contributions, I carry with me a passion for social interventions that can address systemic inequality. 
+See my CV <a href="https://kaimath.github.io/cv/">here</a>. 
 
-I graduated from Vassar College in 2019, where I studied mathematics and urban studies. In my time at Vassar, I strived to be an interdisciplinarian, earning me a prize in multidisciplinary studies and the opportunity to house my thesis in the economics department. My thesis touched on my passions for measurement and neighborhood change by exploring the relationship between the geographic shape of economic segregation and intergenerational mobility. I see a future for myself in which I continue to engage with these topics, whether through a PhD or other means.
+Some things I value in research: open source, ethical data viz, sound statistical analyses, replicability of research, open access data, community engaged research, data democracy and the right to data, science communication, speaking up when needed and stepping back when not, touching grass
 
-I get amped over things like trans visibility, STEM mentorship and pipeline access, and interactive data visualization and mapping. I love to bond over shared interests, so please reach out if any of this speaks to you!
+Questions for me or want to collaborate? I'd love to hear from you at kaimath [at] umich [dot] edu or on Bluesky at <a href="https://bsky.app/profile/did:plc:y6lnl5hrvsv3mr5pipkg3zre">\@kaimath.bsky.social</a>. 
+
+Refer to me using they/them pronouns. 
 
 
 
@@ -45,7 +47,9 @@ I get amped over things like trans visibility, STEM mentorship and pipeline acce
 	<a href="mailto:kaihartmatheson@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/kaimath" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/kaimatheson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	[comment]: <> (
 	<a href="https://twitter.com/mathematikai" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	)
 </span>
 
 <div class="col three caption">
