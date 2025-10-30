@@ -43,6 +43,7 @@ Refer to me using they/them pronouns.
 <br/>
 <hr/>
 <br/>
+[comment]: <> (
 <span class="contacticon center">
 	<a href="mailto:kaihartmatheson@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/kaimath" target="_blank"><i class="fa fa-github-square"></i></a>
@@ -51,6 +52,7 @@ Refer to me using they/them pronouns.
 	<a href="https://twitter.com/mathematikai" target="_blank"><i class="fa fa-twitter-square"></i></a>
 	)
 </span>
+)
 
 <div class="col three caption">
 </div>
