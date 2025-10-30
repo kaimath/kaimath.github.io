@@ -30,7 +30,7 @@ See my CV <a href="https://kaimath.github.io/cv/">here</a>.
 
 Some things I value in research: open source, ethical data viz, sound statistical analyses, replicability of research, open access data, community engaged research, data democracy and the right to data, science communication, speaking up when needed and stepping back when not, touching grass
 
-Questions for me or want to collaborate? I'd love to hear from you at kaimath [at] umich [dot] edu or on Bluesky at <a href="https://bsky.app/profile/did:plc:y6lnl5hrvsv3mr5pipkg3zre">\@kaimath.bsky.social</a>. 
+Questions for me or want to collaborate? I'd love to hear from you at kaimath [at] umich [dot] edu or on Bluesky at <a href="https://bsky.app/profile/did:plc:y6lnl5hrvsv3mr5pipkg3zre">@\kaimath.bsky.social</a>. 
 
 Refer to me using they/them pronouns. 
 
