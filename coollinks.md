@@ -9,6 +9,8 @@ order: 2
 
 ---
 
+last updated: 09/2020
+
 my stuff:
 
 1. <a href="http://raguide.github.io">Economics RA Guide</a> <br/>
