@@ -28,3 +28,4 @@ other people's stuff:
 4. <a href="https://projects.propublica.org/miseducation">ProPublica Miseducation</a> <br/>
 5. <a href="https://www.nytimes.com/interactive/projects/college-mobility/">College Mobility Report Cards</a> <br/>
 6. <a href="https://magic-sketchpad.glitch.me/">Magic Sketchpad</a> <br/>
+7. <a href="https://urbantaxonomy.org/">Urban Taxonomy</a> <br/>
